@@ -1,0 +1,6 @@
+destination: public
+exclude: ['sass']
+name: Jekyll &times; Bootstap
+sass:
+  sass_dir: sass
+  style: :compressed
